@@ -15,12 +15,6 @@ Este projeto nasceu com o propósito de consolidar meus aprendizados em backend 
 
 Mais do que um simples CRUD, essa aplicação representa minha dedicação à melhoria contínua e minha paixão por desenvolvimento backend.
 
-## 🎥 Vídeo de Apresentação
-
-<div align="center">
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7092625403541897217?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
-</div>
-
 ## 🧠 Funcionalidades
 
 - Criação de quizzes de múltipla escolha por usuários;
@@ -80,8 +74,7 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Para mais detalhes sobre o projeto e minha jornada de aprendizado, confira minha publicação no LinkedIn:  
+Para mais detalhes sobre o projeto (incluindo o vídeo de apresentação) e minha jornada de aprendizado, confira minha publicação no LinkedIn:  
 [Publicação de Guilherme Andrade](https://www.linkedin.com/posts/guiandradedev_carreira-ti-backend-activity-7092626182227079168-CbXW)
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7092625403541897217?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
 
 Caso tenha interesse em contribuir ou fornecer feedback, sinta-se à vontade para abrir uma issue ou pull request.
